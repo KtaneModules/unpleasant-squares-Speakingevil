@@ -1,1 +1,1 @@
-# unpleasant-squares
+#[ModKit Wiki](../../wiki)
